@@ -1,0 +1,5 @@
+D001,Mayank Dogra,Cardiology ,6283670780
+D002,Noble ,Gastroenterology,7888846492
+D003,Navjot Singh,Nephrology ,456767890
+D004,Dogra,Pulmonology,7970898012
+D005,Jatin,Sexologist,6283680780
